@@ -8,6 +8,11 @@ Kelas I241D
 
 Matakuliah: Pemograman Mobile 2 (UTS)
 
+# Deskripsi
+SmartFood adalah aplikasi mobile yang dirancang untuk membantu pengguna dalam mencatat, memantau, dan mengelola konsumsi makanan harian secara sederhana dan efisien. Aplikasi ini berfokus pada kemudahan penggunaan (user-friendly) dengan tampilan yang minimalis sehingga dapat digunakan oleh berbagai kalangan.
+
+Aplikasi ini cocok bagi pengguna yang ingin mulai menjaga pola makan, mencatat asupan makanan, serta meningkatkan kesadaran terhadap nutrisi harian.
+
 ## ClICKUP
 <img width="1818" height="743" alt="CLICKUP" src="https://github.com/user-attachments/assets/0e577b78-f9c2-4539-9801-39f95572e68c" />
 
