@@ -13,6 +13,15 @@ SmartFood adalah aplikasi mobile yang dirancang untuk membantu pengguna dalam me
 
 Aplikasi ini cocok bagi pengguna yang ingin mulai menjaga pola makan, mencatat asupan makanan, serta meningkatkan kesadaran terhadap nutrisi harian.
 
+# Tujuan Pengembangan
+
+Aplikasi ini dibuat dengan tujuan:
+
+- Membantu pengguna dalam mencatat makanan secara praktis
+- Meningkatkan kesadaran terhadap pola makan sehat
+- Menyediakan sistem pencatatan sederhana tanpa proses yang rumit
+- Menjadi dasar pengembangan aplikasi kesehatan berbasis teknologi
+
 ## ClICKUP
 <img width="1818" height="743" alt="CLICKUP" src="https://github.com/user-attachments/assets/0e577b78-f9c2-4539-9801-39f95572e68c" />
 
