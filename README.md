@@ -9,6 +9,7 @@ Kelas I241D
 Matakuliah: Pemograman Mobile 2 (UTS)
 
 ## ClICKUP
+<img width="1818" height="743" alt="CLICKUP" src="https://github.com/user-attachments/assets/0e577b78-f9c2-4539-9801-39f95572e68c" />
 
 ## STORYBOARD 
 
