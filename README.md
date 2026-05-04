@@ -17,7 +17,8 @@ Matakuliah: Pemograman Mobile 2 (UTS)
 
 ## MOCKUP
 
-![Uploading Untitled (2).png…]()
+<img width="2110" height="844" alt="Mockup" src="https://github.com/user-attachments/assets/9ca96382-d138-4cfd-bc39-034d3a7c9678" />
+
 
 ## UI (User Interface)
 
